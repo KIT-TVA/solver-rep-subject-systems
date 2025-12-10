@@ -3,7 +3,7 @@
 
 
 # Analysis Documentation
-[View CFM Characteristics and Performance Values](Performance.md)
+[View CFM Characteristics and Performance Values](Characteristic.md)
 
 [View Anomalie descriptions](Anomalies.md)
 
