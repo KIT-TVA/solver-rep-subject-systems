@@ -3,6 +3,8 @@
 
 
 # Analysis Documentation
-[View dataset table](CFM_ALLAnalysis.tsv)
+[View CFM Characteristics and Performance Values](Performance.md)
+
+[View Anomalie descriptions](Anomalies.md)
 
 
